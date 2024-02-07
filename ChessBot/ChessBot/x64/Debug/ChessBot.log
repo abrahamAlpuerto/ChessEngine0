@@ -1,0 +1,6 @@
+﻿  moveSearch.cpp
+C:\Users\aalpu\OneDrive\Desktop\Final Project\ChessBot\ChessBot\moveSearch.h(8,2): warning C4091: 'extern ': ignored on left of 'Pieces' when no variable is declared
+  (compiling source file 'moveSearch.cpp')
+  
+C:\Users\aalpu\OneDrive\Desktop\Final Project\ChessBot\ChessBot\moveSearch.cpp(92,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ChessBot.vcxproj -> C:\Users\aalpu\OneDrive\Desktop\Final Project\ChessBot\x64\Debug\ChessBot.exe
